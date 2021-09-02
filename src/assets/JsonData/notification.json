@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-error",
+        "content": "Offer Alternative or Similar Products"
+    },
+    {
+        "icon": "bx bx-package",
+        "content": "Alert the Consumer About the Exact Refund Process"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Provide Customer Service Contact Info & Hours of Availability"
+    },
+    {
+        "icon": "bx bx-error",
+        "content": "Notify the Customer as Soon as the Item Is Back In Stock"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Customers Know If the Item Is Discontinued"
+    }
+]
